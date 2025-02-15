@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/sector2.sol": "FunctionSelectStoreExample"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/sector2.sol": {
+			"keccak256": "0x832158a42d2cd4e1bdf743df7f93a06b34857eb317fdfd33dbb8655bb1102923",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d1621419dd7112fbeabae201280c7ec4bd3a6d14043e1d9f8f14f86defd6e535",
+				"dweb:/ipfs/QmT2zZPU5316kaaU5U2SFQSJeMMnLA5xmuKLmDgSt4dPag"
+			]
+		}
+	},
+	"version": 1
+}
