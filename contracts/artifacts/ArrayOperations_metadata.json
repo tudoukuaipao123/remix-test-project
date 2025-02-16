@@ -56,6 +56,25 @@
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address[]",
+						"name": "_addresses",
+						"type": "address[]"
+					}
+				],
+				"name": "sumAddresses",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -86,11 +105,11 @@
 	},
 	"sources": {
 		"contracts/array.sol": {
-			"keccak256": "0x6f8c55fefa022a73722c4bd6b4315391f7df46cccbb4ce54558c37a208f005c2",
+			"keccak256": "0x762739c2d87c29205023f74d9edbfe788181ce1032392737d6751664c7e848dd",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b3cf2200143431f6019af63bee93f50ac0f6d731e41531680fb4e612be3eeb50",
-				"dweb:/ipfs/QmXs98hPqTMnu2uTcE254eixa94HCEPYwNn7q8zxeAURyS"
+				"bzz-raw://db2594b522621312fdeeef1a22d2b2ad9bb078b6ad5ec82b1f758751e2f1a63d",
+				"dweb:/ipfs/QmWCPPGQttY64LKjQCRpoSVtSdRFm9KUqoHd65RGwFTnQX"
 			]
 		}
 	},

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/homework/array.sol": "ArrayTest"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/homework/array.sol": {
+			"keccak256": "0xc6d49959fb523d79d2fc132bd593ea2466600281b42aac1c2519a9ce43405b4b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8415abd3493fa4e9aca1856a9632957d4a03eb48b7603f64ac5b6d9ffb36116e",
+				"dweb:/ipfs/QmZPwrbjxmdEgzguzPnfbbFfujKGvQuuxy2ksfcFNfd258"
+			]
+		}
+	},
+	"version": 1
+}
