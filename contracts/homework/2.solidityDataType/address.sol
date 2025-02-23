@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.20;
 
+// address类型作业
+
 contract AddressWallet {
     mapping(address => uint256) public balances;
     mapping(address => bool) public whitelist;

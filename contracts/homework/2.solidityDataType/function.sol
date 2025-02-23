@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.20;
 
+// function 类型作业
 contract FunctionTestContract {
     function square(uint x) public pure returns(uint z) {
         return x*x;

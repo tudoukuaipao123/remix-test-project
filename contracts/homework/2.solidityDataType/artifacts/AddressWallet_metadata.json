@@ -135,7 +135,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/homework/address.sol": "AddressWallet"
+			"contracts/homework/2.solidityDataType/address.sol": "AddressWallet"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -149,12 +149,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/homework/address.sol": {
-			"keccak256": "0x6f63b9b7dd6feb2ee707c2650c9279a78c85e1e14d94bd19dbaabeab5df70752",
+		"contracts/homework/2.solidityDataType/address.sol": {
+			"keccak256": "0x32066d97ec461e192c103319c263ed55c2c97712bdb979b86abeea14c540c76d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://cec46532b374acdedba74586a0490cbe924ca6f4b8165d31f37ff989e9086a5e",
-				"dweb:/ipfs/QmUBjkgpNE2c3RvQqZnC8z9togRd1zngeqYCF4pzSs2nPT"
+				"bzz-raw://3b67cc63dc2d058f9c1d19a7a6058aa3d0d78be04a0876095e9499cb5979e0d6",
+				"dweb:/ipfs/QmXqR3GFtkeigmsEratnvk22cDmT76EqH3zWaqecYm9zqp"
 			]
 		}
 	},

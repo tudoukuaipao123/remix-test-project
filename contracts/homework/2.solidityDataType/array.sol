@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.20;
 
+// array 类型作业
 contract StringBytesExample {
 
     // 字符串数组

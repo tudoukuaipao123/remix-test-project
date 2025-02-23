@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.20;
 
+// 类型转换-作业
 contract ReferenceType {
     uint[] public data; // 存储在storage中的动态数组
 

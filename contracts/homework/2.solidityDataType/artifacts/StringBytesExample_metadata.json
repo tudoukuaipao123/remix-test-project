@@ -252,7 +252,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/homework/array.sol": "StringBytesExample"
+			"contracts/homework/2.solidityDataType/array.sol": "StringBytesExample"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -266,12 +266,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/homework/array.sol": {
-			"keccak256": "0x685a5caf6e3694ade67835375a90c8491037dfccd1b90f532b83160bb369350f",
+		"contracts/homework/2.solidityDataType/array.sol": {
+			"keccak256": "0xcb9a0c2099e182381da4f5990dfb38e5c2d64015ff244e7b07c8f69b978348ff",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://bf79bcea5c1cdc81c1902da6aeffdfa8d69a3d7eae71e8186af68aaf45999ae3",
-				"dweb:/ipfs/QmUcDZmu76NmeEPBzsbHXWycwWPsFrZPJuUmi3GGgHUS3Q"
+				"bzz-raw://eb6fbe96f74d8a00bc7b4aa5d05fac92485f1fd9225e1451d4b49f7416042f7a",
+				"dweb:/ipfs/QmPgjJGr5BXVjtDwTvCnB2U9iVrXjTN51X7SR3gAVjPFMW"
 			]
 		}
 	},

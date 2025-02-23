@@ -111,7 +111,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/homework/reference.sol": "ReferenceType"
+			"contracts/homework/2.solidityDataType/reference.sol": "ReferenceType"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -125,12 +125,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/homework/reference.sol": {
-			"keccak256": "0x4529b947b2c255c9c30c5cbe77346d0925463607f3dd472b05d69f2955cf5b71",
+		"contracts/homework/2.solidityDataType/reference.sol": {
+			"keccak256": "0x32beffd2232bfc68bc3a624daf5e634e9fcd5285c81274eb2ebd639943c0acf0",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://03fd48a4b77ff31ec3744e9e87a5d6f18c25eda5ba9ba2c4c7452ee246da9d62",
-				"dweb:/ipfs/QmNhYHT6ZDitqENW9fhWr2FJYB1CSmyG5NQHvpbZgrdBcK"
+				"bzz-raw://9866d5ca495a3091a180a7bd97d28fe9136bd8f79c04692aa70191687f7f42bf",
+				"dweb:/ipfs/QmbmGRmCzXAiRQd5n6yg4MMBr4XMgyfnntMnsEjr3cbjCr"
 			]
 		}
 	},

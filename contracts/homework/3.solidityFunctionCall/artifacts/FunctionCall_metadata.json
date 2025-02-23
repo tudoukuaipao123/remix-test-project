@@ -1,0 +1,102 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "n",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "m",
+						"type": "uint256"
+					}
+				],
+				"name": "countAll",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "sum",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "product",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_address",
+						"type": "address"
+					}
+				],
+				"name": "doPay",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "1.3 solidity函数调用 作业 编写一个合约，定义不同可见性和状态可变性的函数，并进行测试。 实现一个函数，接受两个参数并返回它们的和与积。 创建一个 payable 函数，允许用户向合约发送以太币，并记录发送金额。*",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/homework/3.solidityFunctionCall/functionCall.sol": "FunctionCall"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/homework/3.solidityFunctionCall/functionCall.sol": {
+			"keccak256": "0x19541a5f7db52ac3d7f8d5b35f41d1e7f94ff99c91340398513d2b8e71ff0d59",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6591bfc8578f9a7a1f0380d3421894681f4e1dbd2fc2a5eb2744f5f1b8cba4a0",
+				"dweb:/ipfs/QmbD3ZwURvJ8EMsaSFD4rucGjwAW6q95WmyTq1sNHjpJAG"
+			]
+		}
+	},
+	"version": 1
+}

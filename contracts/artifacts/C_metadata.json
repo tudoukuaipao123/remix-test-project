@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "data",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "x",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/variableScope.sol": "C"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/variableScope.sol": {
+			"keccak256": "0x8f0f849c60d4f2db4f8860d1cc139dc83e99e6adb9bc09a07edfc206d2da081d",
+			"urls": [
+				"bzz-raw://e98796bb33acd5593d9f20a41616dc9994731b1ebde0810a336ee2858708d004",
+				"dweb:/ipfs/QmRKBpC9oXjBJgPy5Aw9nWpHzHLAu4Utpk8gcfrdZGN7sY"
+			]
+		}
+	},
+	"version": 1
+}
