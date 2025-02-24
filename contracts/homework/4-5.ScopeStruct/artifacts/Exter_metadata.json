@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "1.4-1.5变量的作用域和控制结构 作业 编写合约，测试不同作用域的局部变量和状态变量的访问权限。 实现包含多种控制结构的函数，测试if、for、while等语句的使用。 编写带有try/catch结构的合约，处理外部合约函数调用中的异常。*",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/homework/4-5.ScopeStruct/scopeStruct.sol": "Exter"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/homework/4-5.ScopeStruct/scopeStruct.sol": {
+			"keccak256": "0xd0e0215e7ff81e03a1cab8dad0f84b030cc9c340aaaf75ff451302cdc4648362",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://39c62b896bf5b5181909226b0c68a23a5d24ac6bb105f00eaaab6d5a0436d33a",
+				"dweb:/ipfs/QmRbRuZfDDdEqreDpc81a3wCqKnqTjxXQ1yWa8yYqy6qSe"
+			]
+		}
+	},
+	"version": 1
+}

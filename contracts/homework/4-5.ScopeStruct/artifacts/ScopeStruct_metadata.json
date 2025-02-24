@@ -1,0 +1,102 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address",
+						"name": "externalContractAddress",
+						"type": "address"
+					}
+				],
+				"name": "countNum",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "result",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					}
+				],
+				"name": "loopFunc",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "sum",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "outData",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/homework/4-5.ScopeStruct/scopeStruct.sol": "ScopeStruct"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/homework/4-5.ScopeStruct/scopeStruct.sol": {
+			"keccak256": "0xf83618c39ea2064bc59a1643ba79cba4ad349317bcb5962b93a9a21f77b01347",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://240b80b8488b9961e954d7033e9725ba77126c75d1ea5a84b8586d4f86a042ec",
+				"dweb:/ipfs/Qmax19ZTZSGhpByAbBYt5NpcwNA9DLSrwxhnTDDaq8Vjyz"
+			]
+		}
+	},
+	"version": 1
+}

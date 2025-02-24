@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					}
+				],
+				"name": "someFunction",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "result",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "1.4-1.5变量的作用域和控制结构 作业 编写一个包含公共、内部和私有状态变量的合约，测试其在合约内部、外部以及派生合约中的访问权限。 实现一个函数，使用for循环计算1到n的所有奇数和，并使用try/catch结构处理外部合约调用中的异常。*",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/homework/4-5.ScopeStruct/scopeStruct.sol": "ExternalContract"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/homework/4-5.ScopeStruct/scopeStruct.sol": {
+			"keccak256": "0xf83618c39ea2064bc59a1643ba79cba4ad349317bcb5962b93a9a21f77b01347",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://240b80b8488b9961e954d7033e9725ba77126c75d1ea5a84b8586d4f86a042ec",
+				"dweb:/ipfs/Qmax19ZTZSGhpByAbBYt5NpcwNA9DLSrwxhnTDDaq8Vjyz"
+			]
+		}
+	},
+	"version": 1
+}
