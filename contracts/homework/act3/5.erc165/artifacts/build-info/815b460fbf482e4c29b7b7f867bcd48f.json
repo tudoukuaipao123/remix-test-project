@@ -1,0 +1,68 @@
+{
+	"id": "815b460fbf482e4c29b7b7f867bcd48f",
+	"_format": "hh-sol-build-info-1",
+	"solcVersion": "0.8.20",
+	"solcLongVersion": "0.8.20+commit.a1b79de6",
+	"input": {
+		"language": "Solidity",
+		"sources": {
+			"contracts/homework/act3/5.erc165/erc165.sol": {
+				"content": "// SPDX-License-Identifier: MIT\npragma solidity 0.8.20;\n\n/**\n实现一个支持 ERC165 的合约，注册多个接口，并编写测试用例来验证 supportsInterface 函数的正确性。\n编写一个合约，它通过调用 supportsInterface 动态判断与其交互的合约是否实现了特定的标准\n***/"
+			}
+		},
+		"settings": {
+			"optimizer": {
+				"enabled": false,
+				"runs": 200
+			},
+			"outputSelection": {
+				"*": {
+					"": [
+						"ast"
+					],
+					"*": [
+						"abi",
+						"metadata",
+						"devdoc",
+						"userdoc",
+						"storageLayout",
+						"evm.legacyAssembly",
+						"evm.bytecode",
+						"evm.deployedBytecode",
+						"evm.methodIdentifiers",
+						"evm.gasEstimates",
+						"evm.assembly"
+					]
+				}
+			},
+			"remappings": []
+		}
+	},
+	"output": {
+		"sources": {
+			"contracts/homework/act3/5.erc165/erc165.sol": {
+				"ast": {
+					"absolutePath": "contracts/homework/act3/5.erc165/erc165.sol",
+					"exportedSymbols": {},
+					"id": 2,
+					"license": "MIT",
+					"nodeType": "SourceUnit",
+					"nodes": [
+						{
+							"id": 1,
+							"literals": [
+								"solidity",
+								"0.8",
+								".20"
+							],
+							"nodeType": "PragmaDirective",
+							"src": "32:23:0"
+						}
+					],
+					"src": "32:282:0"
+				},
+				"id": 0
+			}
+		}
+	}
+}
