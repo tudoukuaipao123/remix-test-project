@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "multiply",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/homework/act3/3.library/MathLab.sol": "MathLib"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/homework/act3/3.library/MathLab.sol": {
+			"keccak256": "0xd1b75f0110729fdaf971899c9302970d74b3715a3786411e1adb5c961312304b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a99e797ddcf37a1de1604d00085ba5787e8c01a32f2ab455e1671f32076f96ee",
+				"dweb:/ipfs/QmaX1btjdiJdCqNd8wQrAiHgcodSp13ohpyMjadH2UU4BB"
+			]
+		}
+	},
+	"version": 1
+}

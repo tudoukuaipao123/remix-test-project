@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "deposit",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "withdraw",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/homework/act3/2.interfaes/interfaces.sol": "Bank"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/homework/act3/2.interfaes/interfaces.sol": {
+			"keccak256": "0xf3386e3744cd93ef09202c4722c44527a55ef9c143a8022a230153a0519969aa",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://93f344c6002533522626d3b04a9d4fefea9c750c002ce26e9dd74ee8ff8ca057",
+				"dweb:/ipfs/QmUcEiuSnbzKEdHHXPj76dAQoKpbE7ucNz2PhAiewyiatk"
+			]
+		}
+	},
+	"version": 1
+}

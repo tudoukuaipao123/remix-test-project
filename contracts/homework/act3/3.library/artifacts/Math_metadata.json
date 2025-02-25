@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "1.编写一个库 MathLib，实现加法、减法和乘法函数，并在合约中使用该库。 2.修改 MathLib 的乘法函数为外部函数，然后编写一个合约 CalcTest 使用链接库，并通过库地址调用乘法函数。 3.编写一个库，提供对数组的扩展功能（如 contains 函数检查数组是否包含某个元素），并在合约中使用 using for 语法扩展数组类型。*",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/homework/act3/3.library/library.sol": "Math"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/homework/act3/3.library/library.sol": {
+			"keccak256": "0x0646ae878980d63c1df7dd6ecbc0ed76cd6029c3c44d1e983d13f017d18c5f07",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://49b4d2b06b600f8f09639c7ebf6e31bf90750683946007a589196d8b310b9dbc",
+				"dweb:/ipfs/QmcHDRR6KYBKLuJtmbnurteWMZRE61XQxS2qpacMMQDDva"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,79 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "batteryLevel",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "drive",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "speed",
+				"outputs": [
+					{
+						"internalType": "uint16",
+						"name": "",
+						"type": "uint16"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/homework/act3/1.inheritance/inheritance.sol": "ElectricCar"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/homework/act3/1.inheritance/inheritance.sol": {
+			"keccak256": "0xe46603f80cae8d0acb0dc5556ca7706f7771e614411aa1e0c0a70491c0515e74",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://13887917246524e965f3293aa75fe20068ae9d519f111c57c47bcbc82c881117",
+				"dweb:/ipfs/QmWxdskcSGrezKEZyiycokd9wvEEBG9dmoNTTwc1b2t6Ve"
+			]
+		}
+	},
+	"version": 1
+}

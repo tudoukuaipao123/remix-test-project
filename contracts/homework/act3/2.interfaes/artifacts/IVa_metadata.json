@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/homework/act3/2.interfaes/interfaces.sol": "IVa"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/homework/act3/2.interfaes/interfaces.sol": {
+			"keccak256": "0xee56e241301557504a6d901f594cd1518073c877f16c38699cb8f87362e21c7e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3006a63500ba171bcfa99313deb17489176bfded795d4a26d4717e1c5df29d0d",
+				"dweb:/ipfs/QmcDNDRjGmqVMfQfatSWadToozurPBeadsSkRJ5MbFeJ4o"
+			]
+		}
+	},
+	"version": 1
+}

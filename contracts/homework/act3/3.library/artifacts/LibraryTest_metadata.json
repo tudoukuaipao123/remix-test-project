@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "add",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "c",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/homework/act3/3.library/library.sol": "LibraryTest"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/homework/act3/3.library/library.sol": {
+			"keccak256": "0x2c86d62de00c07ed229e5483456e0489a9070b7b3ec7519d72bfb0927f45e26a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c215e992509d1348fc325971de583f5e36d9f3333e0764002a6c8485857d7bac",
+				"dweb:/ipfs/QmTiV47ikURYXqfdvwSqBhTt6AYpDgDdRdR5Pr58iguN3a"
+			]
+		}
+	},
+	"version": 1
+}
